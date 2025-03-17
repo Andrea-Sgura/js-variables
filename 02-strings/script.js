@@ -24,3 +24,12 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 
 let myname = `Andrea`;
 console.log(myname)
+
+let number = 10;
+console.log(number)
+
+let text = `Hello World!`;
+console.log(text)
+
+let bool = true;
+console.log(bool)
